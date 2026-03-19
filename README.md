@@ -17,9 +17,9 @@
 
 ### `> whoami`
 
-I architect and build systems at the intersection of **financial services** and **intelligent applications**. My work spans capital markets platforms, event-driven backends, and AI-enabled products : from Calypso and Murex implementations to LLM-powered agents and agentic workflows.
+I architect and build systems at the intersection of **financial services** and **intelligent applications**. My work spans capital markets platforms, event-driven backends, and AI-enabled products, from Calypso and Murex implementations to LLM-powered agents and agentic workflows.
 
-I've founded and co-founded ventures across technology, music, arts, and fashion , bringing product thinking, creativity, and commercial awareness into every engineering challenge.
+I've founded and co-founded ventures across technology, music, arts, and fashion, bringing product thinking, creativity, and commercial awareness into every engineering challenge.
 
 ---
 
@@ -37,15 +37,15 @@ I've founded and co-founded ventures across technology, music, arts, and fashion
 
 ### `> achievements --top`
 
-🏗️ **Collateral Datastore** — Designed a Calypso-agnostic datastore integrating multiple sources into Snowflake, eliminating reporting dependency on live systems and retiring legacy infrastructure
+🏗️ **Collateral Datastore** · Designed a Calypso-agnostic datastore integrating multiple sources into Snowflake, eliminating reporting dependency on live systems and retiring legacy infrastructure
 
-📊 **Collateral Valuation** — Automated haircut profiles for FX exposure control and Tri-Party Collateral integration across multiple Clearing services
+📊 **Collateral Valuation** · Automated haircut profiles for FX exposure control and Tri-Party Collateral integration across multiple Clearing services
 
-🚀 **Continuous Delivery Platform** — Transformed release practices with a CI/CD framework (Git, Jenkins, Sonar, Nexus, XL Deploy), improving delivery agility and quality
+🚀 **Continuous Delivery Platform** · Transformed release practices with a CI/CD framework (Git, Jenkins, Sonar, Nexus, XL Deploy), improving delivery agility and quality
 
-🔄 **Front-to-Back Calypso** — Delivered end-to-end implementation including v11→v13 migration, new product onboarding, and regulatory reporting
+🔄 **Front-to-Back Calypso** · Delivered end-to-end implementation including v11→v13 migration, new product onboarding, and regulatory reporting
 
-️ **[LOQT](https://lokt.app/)** *(Co-founded)* — AI-powered platform for schools and families, full-stack architecture with NativeScript, Spring Boot, Axon Framework, and AI agents via LangChain/LangGraph
+🛡️ **[LOQT](https://lokt.app/)** *(Co-founded)* · AI-powered platform for schools and families, full-stack architecture with NativeScript, Spring Boot, Axon Framework, and AI agents via LangChain/LangGraph
 
 ---
 
@@ -119,8 +119,8 @@ Sectors     Capital Markets · Collateral & Clearing · Private Banking · Order
 
 | Year | Certification |
 |:---:|---|
-| 🔄 | **AI Engineering & AI Architecture** — Foundation models, agents, RAG, evaluation, deployment |
-| 🔄 | **Architecture Training** — Business architecture, quality attributes, patterns, cloud, data, AI/ML |
+| 🔄 | **AI Engineering & AI Architecture** · Foundation models, agents, RAG, evaluation, deployment |
+| 🔄 | **Architecture Training** · Business architecture, quality attributes, patterns, cloud, data, AI/ML |
 | 2024 | **Machine Learning & Data Science Foundations** |
 | 2020 | **AWS Certified Solutions Architect – Associate** |
 
