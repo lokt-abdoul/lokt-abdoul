@@ -11,15 +11,15 @@
 
 ---
 
-> Senior Technologist with over 25 years of experience delivering mission-critical solutions in banking and financial services. I combine deep enterprise architecture expertise with an entrepreneurial mindset — building scalable platforms, leading engineering teams, and creating AI-powered products.
+> Senior Technologist with over 25 years of experience delivering mission-critical solutions in banking and financial services. I combine deep enterprise architecture expertise with an entrepreneurial mindset, building scalable platforms, leading engineering teams, and creating AI-powered products.
 
 ---
 
 ### `> whoami`
 
-I architect and build systems at the intersection of **financial services** and **intelligent applications**. My work spans capital markets platforms, event-driven backends, and AI-enabled products — from Calypso and Murex implementations to LLM-powered agents and agentic workflows.
+I architect and build systems at the intersection of **financial services** and **intelligent applications**. My work spans capital markets platforms, event-driven backends, and AI-enabled products : from Calypso and Murex implementations to LLM-powered agents and agentic workflows.
 
-I've founded and co-founded ventures across technology, music, arts, and fashion — bringing product thinking, creativity, and commercial awareness into every engineering challenge.
+I've founded and co-founded ventures across technology, music, arts, and fashion , bringing product thinking, creativity, and commercial awareness into every engineering challenge.
 
 ---
 
@@ -124,7 +124,7 @@ Sectors     Capital Markets · Collateral & Clearing · Private Banking · Order
 | 2024 | **Machine Learning & Data Science Foundations** |
 | 2020 | **AWS Certified Solutions Architect – Associate** |
 
-🎓 **Master's in Engineering** — MINES Nancy, France *(Computer Science, Mathematics, Physics)*
+🎓 **Master's in Engineering** *(Computer Science, Mathematics, Physics)*
 
 ---
 
