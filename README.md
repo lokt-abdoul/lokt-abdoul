@@ -156,8 +156,9 @@ Sectors     Capital Markets · Collateral & Clearing · Private Banking · Order
 
 <div align="center">
 
-*This profile mixes architecture experiments, product prototypes, AI application work, and engineering labs.*
-*Much of my enterprise work is delivered in client environments and cannot be shared publicly —*
-*this space focuses on selected public demos, technical experiments, and representative implementations.*
+*This profile brings together public architecture showcases, product concepts, AI application design, and selected engineering experiments.*
+*Much of my professional work has been delivered within client environments or private ventures and cannot be shared publicly.*
+*This space therefore focuses on representative architecture, technical thinking, design decisions, best practices, trade-offs,*
+*and selected public prototypes across banking technology, AI-powered applications, and venture-led product development.*
 
 </div>
